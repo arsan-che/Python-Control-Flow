@@ -25,3 +25,4 @@ keanu_insurance_cost = estimate_insurance_cost(name='Keanu', age=29, sex=1, num_
 
 # Estimate Ivar's insurance cost by calling the function with his details
 ivar_insurance_cost = estimate_insurance_cost(name='Ivar', age=22, sex=1, num_of_children=0, smoker=1)
+#end
